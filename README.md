@@ -11,6 +11,6 @@ I am Tam,
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamlem)](https://github.com/anuraghazra/github-readme-stats)
 
-![Metrics](https://github.com/tblaase/tamlem/blob/main/github-metrics.svg)
+![Metrics](https://github.com/tamlem/blob/main/github-metrics.svg)
 
 ![Profile views](https://gpvc.arturio.dev/tamlem)
