@@ -2,7 +2,7 @@
 
 I am Tam,
 
-- 🔭 I’m currently building projects in <b> C and C++ </b>
+- 🔭 I’m currently building projects in <b> C, C++, Python </b>
 - 🌱 I’m currently learning <b> systems programming, algorithms, network communication </b>, and more
 - 👯 I’m looking to collaborate on projects in <b>C and C++ applied in embedded systems, and scientific computing, and also Web development</b>
 - 💬 Ask me about how I can help you with your project
