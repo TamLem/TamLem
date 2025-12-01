@@ -1,1 +1,1 @@
-Engaging in designing and building innovative tech products.
+Crafting valuable and usable tech products
