@@ -1,1 +1,1 @@
-Crafting valuable and usable tech products
+Crafting valuable tech products
